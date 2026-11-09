@@ -5,7 +5,7 @@
 
 ## Dataset
 
-**Sumber:** [Klinik Hukumonline](https://www.hukumonline.com/klinik/) (`embedings.json`)
+**Sumber:** [Hugging Face](https://huggingface.co/datasets/biznetgio/indonesia-law-qa-embeddings) (`embedings.json`)
 
 | Atribut | Detail |
 | :--- | :--- |
