@@ -97,7 +97,7 @@ Keunggulan tambahan:
 
 ```
 UAS/
-├── embedings.json        # Dataset sumber asli
+├── embedings.zip         # Dataset asli terkompresi (~84 MB)
 ├── requirements.txt      # Dependensi Python
 ├── reembed.py            # Re-embedding dengan multilingual-e5-large
 ├── search.py             # Hybrid search engine (FAISS + BM25 + RRF)
