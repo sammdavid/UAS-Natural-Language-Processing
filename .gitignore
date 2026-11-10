@@ -1,7 +1,6 @@
 # Large dataset & vectors (exceeds GitHub 100MB limit)
 embedings.json
 *.jsonl
-*.npy
 *.npz
 *.faiss
 *.index
