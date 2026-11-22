@@ -133,3 +133,28 @@ set GEMINI_API_KEY=your_api_key_here
 python rag.py
 ```
 
+
+---
+
+## Progress 2 (branch `gaby/progress2-eval-ui`)
+
+Nama antarmuka chatbot: **Asas** — tagline *"Tanya hukum sehari-hari, langsung dengan sumbernya."* (nama dan tagline diatur di `BRAND_NAME` / `TAGLINE` dalam `app.py`).
+
+| File | Isi |
+| :--- | :--- |
+| `rag_core.py` | Pipeline `rag.ipynb` sebagai modul (perilaku bawaan sama); key & model dari env |
+| `app.py` | Antarmuka Gradio: tanya-jawab, sumber yang bisa diklik, pilihan LLM/retrieval/rewriter/top-k |
+| `eval_generation.py` | Evaluasi answer generation: BLEU, ROUGE-1/2/L, BERTScore, lembar penilaian manual |
+| `.env.example` | Template variabel lingkungan (salin ke `.env`, isi key sendiri) |
+
+> Catatan: LLM sebenarnya dipanggil lewat **OpenRouter** (Gemma), bukan Gemini AI Studio seperti tertulis di atas; dan isi repo berupa notebook, bukan `reembed.py`/`search.py`/`rag.py`.
+
+```bash
+pip install -r requirements.txt
+cp .env.example .env               # isi OPENROUTER_API_KEY milik sendiri
+python app.py                      # UI di http://127.0.0.1:7860
+python eval_generation.py prepare  # set uji 40 (seed 42) + retrieval hybrid top-3
+python eval_generation.py generate # Gemma, Qwen, Luna (cek biaya dulu, ketik LANJUT)
+python eval_generation.py score    # tabel ringkasan di results/ringkasan_generation.md
+python eval_generation.py manual   # results/penilaian_manual.csv untuk diisi manual
+```
