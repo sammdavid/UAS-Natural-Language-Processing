@@ -1,0 +1,145 @@
+"id","model","model_dijawab","query","retrieved_ids","retrieved_titles","gold_in_top3","gold_rank","status","finish_reason","answer","latency_s","prompt_tokens","completion_tokens","cost_usd","error"
+"5238","nvidia/nemotron-3.5-lightning:free","nvidia/nemotron-3.5-lightning:free","Saya menggadaikan BPKB motor. Kemudian motor saya hilang dicuri (menurut pihak bank motor saya tersebut tidak diasuransikan) Pertanyaanya : Apakah saya harus terus menyicil sisa utang saya?","5238|6343|6277","Kewajiban Melunasi Utang Walau Obyek Jaminan Hilang | Motor Kredit Dibawa Lari Paman Sendiri | Kredit Dengan Jaminan BPKB, Bolehkah?",True,1,"ok","stop","Berdasarkan dokumen rujukan yang dilampirkan, berikut adalah jawaban atas pertanyaan Anda:
+
+**Jawaban Singkat:**
+Secara hukum, Anda tetap wajib melunasi sisa cicilan utang tersebut. Meskipun motor tersebut hilang/dicuri dan bank menyatakan motor tersebut tidak diajukan asuransi, kewajiban Anda untuk membayar hutang berdasarkan perjanjian kredit masih berlaku.
+
+**Alasan Hukum:**
+1.  **Status Jaminan (Fidusia, bukan Gadai):** Menurut Dokumen Rujukan 1, karena motor masih berada dalam kekuasaan Anda (pengguna) saat dijaminkan, maka jenis jaminan tersebut adalah **fidusia**, bukan gadai. Berdasarkan Pasal 1 ayat (2) Undang-Undang No. 42 Tahun 1999 tentang Jaminan Fidusia, fidusia adalah jaminan atas benda bergerak yang kekuasaannya tetap berada pada pemberi jaminan (Anda). Karena itu, Anda tetap berhak menggunakan motor tersebut.
+2.  **Kewajiban Melunasi Utang:** Menurut Dokumen Rujukan 1, karena perjanjian kredit mengikat Anda sebagai peminjam, secara hukum Anda adalah yang bertanggung jawab untuk melunasi cicilan, terlepas dari kejadian hilangnya objek jaminan. Kehilangan motor bukanlah alasan hukum untuk melepaskan kewajiban membayar utang yang telah Anda terima.
+3.  **Tidak Ada Asuransi:** Dokumen rujukan tidak menyediakan informasi tentang obligasi bank untuk mengasuransikan objek fidusia, namun kewajiban pelunasan utang berdasarkan perjanjian tetap ada.
+
+**Langkah Praktis yang Dapat Dilakukan:**
+*   **Kontak Bank:** Hubungi bank pemilik utang untuk membahas kondisi motor yang hilang. Tanyakan apakah ada opsi *restructuring* (penyesuaian jadwal cicilan) atau *settlement* karena kehilangan jaminan.
+*   **Laporkan Ke Polisi:** Meskipun bank tidak mengakui asuransi, Anda sebaiknya melapor kejadian pencurian ke pihak kepolisian terdekat untuk memiliki bukti administrasi (STTB/Laporan Polisi), yang bisa digunakan dalam diskusi dengan bank.
+*   **Diskusi Restrukturisasi:** Karena motor sudah hilang (tidak dapat digunakan sebagai jaminan lagi), diskusikan dengan bank untuk mengubah bentuk jaminan atau memperpanjang masa jangka cicilan agar angsuran menjadi lebih ringan.
+
+**Penting Diingat:**
+Informasi ini bersifat umum sebagai referensi hukum. Setiap kasus tergantung pada perjanjian kredit spesifik Anda dan kebijakan bank. Aturan perjanjian dan hukum dapat berubah, sehingga untuk kasus spesifik ini, disarankan untuk berkonsultasi langsung dengan ahli hukum atau lembaga bantuan hukum.",4.02,2829,662,0,""
+"912","nvidia/nemotron-3.5-lightning:free","nvidia/nemotron-3.5-lightning:free","Saya berusia 17 tahun dan masih berstatus siswa di salah satu SMA di Semarang. Saya mendapat diskriminasi dari sebagian guru berupa pembatasan interaksi dengan orang lain dan saya dikeluarkan dari projek dokumentasi sekolah tanpa alasan yang jelas. Saya punya bukti-bukti jika dibutuhkan. Apakah kasus saya ini dapat ditangani secara hukum? Sebab saya merasa jadi trauma untuk ke sekolah lagi. Terima kasih.","912|3735|4941","Langkah Hukum dan Sanksi dari Diskriminasi Guru terhadap Siswa | Larangan Mensyaratkan Pembelian Seragam Sekolah untuk Penerimaan Siswa | Bisakah Menggugat Eks-TKA yang Sudah Kembali ke Negara Asalnya?",True,1,"ok","stop","Berdasarkan dokumen rujukan yang dilampirkan, berikut adalah respons berdasarkan informasi yang tersedia:
+
+Diskriminasi guru terhadap siswa adalah larangan berdasarkan Undang-Undang No. 20 Tahun 2003 tentang Sistem Pendidikan Nasional. Pasal 4 ayat (1) menyatakan bahwa pendidikan di Indonesia diselenggarakan dengan prinsip demokratis, berkeadilan, dan tidak diskriminatif dengan menjunjung tinggi hak asasi manusia. Perbuatan diskriminasi tersebut dapat menjadi bahan gugatan.
+
+Secara praktis, langkah yang dapat dilakukan meliputi:
+1. **Pengaduan tertulis**: Ajukan keluhan tertulis kepada Kepala Sekolah atau Komisi Yudisium terkait diskriminasi dan pemerasan (pemisahan dari projek tanpa alasan).
+2. **Komnas HAM**: Jika merasa hak asasi dilanggar, dapat dilaporkan ke Komnas HAM untuk penyelidikan lebih lanjut.
+3. **Bukti**: Simpan semua bukti (seperti catatan komunikasi, bukti pemerasan) sebagai bahan pertanggungjawaban.
+
+Dokumen juga menyebutkan bahwa pengadaan pakaian seragam tidak boleh dikaitkan dengan penerimaan siswa, yang relevan jika diskriminasi terkait prasyarat masuk sekolah.
+
+**Penting diingat**: Informasi ini bersifat umum untuk edukasi hukum. Kasus spesifik memerlukan konsultasi langsung dengan pengacara atau lembaga pengawas pendidikan. Aturan dan prosedur bisa berubah sewaktu-waktu.",2.64,3229,343,0,""
+"204","nvidia/nemotron-3.5-lightning:free","nvidia/nemotron-3.5-lightning:free","Berapa usia pensiun karyawan berdasarkan peraturan pemerintah yang berlaku?
+	Jika peraturan perusahaan mengatur usia pensiun karyawan di bawah yang ditetapkan pemerintah, maka mengikuti peraturan perusahaan atau peraturan pemerintah?","204|1814|902","Usia Pensiun Diatur Berbeda dari Peraturan Pemerintah, Bolehkah? | Hak Karyawan Pensiun dalam Peraturan Perusahaan Berbeda dengan Peraturan Pemerintah, Mana yang Berlaku? | Aturan Usia Pensiun Pekerja dan PNS Serta Manfaat yang Diterima",True,1,"ok","stop","Berdasarkan dokumen rujukan yang dilampirkan, berikut adalah jawaban atas pertanyaan pengguna:
+
+**1. Berapa usia pensiun karyawan berdasarkan peraturan pemerintah yang berlaku?**
+Berdasarkan **Pasal 154A ayat (1) huruf n UU Cipta Kerja (UU 6/2023)**, usia pensiun bagi karyawan swasta bertahap: mulai **1 Januari 2019** menjadi **57 tahun**, lalu bertambah 1 tahun untuk setiap 3 tahun berikutnya hingga mencapai **65 tahun**.
+
+**2. Jika peraturan perusahaan mengatur usia pensiun karyawan di bawah yang ditetapkan pemerintah, maka mengikuti peraturan perusahaan atau peraturan pemerintah?**
+Berdasarkan **Dokumen Rujukan 3**, dalam praktiknya, jika peraturan perusahaan mengatur usia pensiun karyawan di bawah (lebih muda) dari yang ditetapkan pemerintah, maka **peraturan perusahaan akan mengikat karyawan**. Ini karena peraturan perusahaan merupakan kesepakatan khusus antara pengusaha dan pekerja. Namun, untuk menghindari ketidakpastian, sebaiknya usia pensiun dalam peraturan perusahaan tidak boleh lebih rendah dari standar minimum yang ditetapkan pemerintah.
+
+**Catatan Penting:**
+*   Informasi ini bersifat umum untuk tujuan pendidikan dan bukan nasihat hukum spesifik.
+*   Aturan pensiun bisa berubah seiring dengan perubahan peraturan atau kebijakan lebih lanjut. Untuk kasus spesifik, disarankan untuk berkonsultasi dengan ahli hukum atau lembaga terkait.",2.27,3423,354,0,""
+"6074","nvidia/nemotron-3.5-lightning:free","nvidia/nemotron-3.5-lightning:free","Jika kita diminta untuk menjadi saksi ahli dalam suatu kasus pidana maupun perdata, apakah kita bisa menolak, apakah sanksi hukumnya? Apakah kita menjadi saksi ahli mendapat biaya/dibayar? Sebab di dalam KUHAP hal tersebut katanya diatur, lalu siapakah yang membayar dan bagaimana ketentuan teknis pembayarannya? Tolong beri penjelasan, terima kasih.","6074|721|3867","Bolehkah Menolak Panggilan Sebagai Ahli dalam Persidangan? | Syarat dan Dasar Hukum Keterangan Ahli dalam Perkara Pidana | Pemeriksaan Saksi di Tingkat Penyidikan dan di Pengadilan",True,1,"ok","stop","Berdasarkan dokumen rujukan yang dilampirkan, berikut adalah penjelasan mengenai pertanyaan Anda:
+
+**1. Bolehkah menolak menjadi keterangan ahli?**
+Secara umum, jika Anda dipanggil untuk menjadi keterangan ahli, Anda **harus hadir** dan tidak boleh menolak tanpa alasan yang sah. Dokumen Rujukan 1 menyebutkan bahwa apabila dipanggil, Anda harus datang memenuhi panggilan tersebut, atau Anda dapat diancam pidana penjara. Dokumen ini mengutip Pasal 184 ayat (1) KUHAP yang mengatur keterangan ahli sebagai alat bukti sah dalam pengadilan pidana. Meskipun demikian, ketentuan ini bersifat umum; praktiknya terkadang ada dasar hukum lain (seperti undang-undang khusus atau keputusan hakim) yang mengatur pengecualian atau cara menolak dengan formalitas tertentu, namun hal tersebut tidak tertera dalam dokumen rujukan yang ada.
+
+**2. Apakah ada sanksi hukumnya?**
+Ya, ada sanksi. Dokumen Rujukan 1 secara eksplisit menyebutkan ancaman ""pidana penjara"" bagi mereka yang tidak hadir memenuhi panggilan sebagai keterangan ahli. Sanksi ini didasarkan pada ketentuan tentang keterangan ahli yang wajib dipenuhi dalam proses pengadilan.
+
+**3. Apakah keterangan ahli mendapat biaya/dibayar?**
+Berdasarkan dokumen rujukan yang tersedia, **tidak ada informasi mengenai upah atau biaya** yang diterima keterangan ahli untuk kehadirannya. Dokumen Rujukan 1 dan 3 fokus pada kewajiban hadir dan sanksi jika tidak hadir, tetapi tidak menyebutkan mekanisme pembayaran honorer atau jasa keterangan ahli. Informasi tentang pembayaran biaya biasanya diatur dalam peraturan lain atau kesepakatan antar pihak, bukan dalam KUHAP yang disebutkan dalam dokumen ini.
+
+**4. Siapakah yang membayar dan bagaimana ketentuan teknis pembayarannya?**
+Dokumen rujukan **tidak menyertakan ketentuan tentang siapa yang membayar biaya** atau mekanisme teknis pembayaran honorer keterangan ahli. Dokumen Rujukan 1 menyebutkan bahwa keterangan ahli diatur dalam Pasal 154 Herzien Inlandsch Reglement (HIR) untuk perkara perdata, dan Pasal 184 ayat (1) KUHAP untuk perkara pidana, namun kedua pasal tersebut di dalam dokumen tersebut hanya mengatur definisi dan kewajiban hadir, bukan aspek finansial pembayaran.
+
+**Catatan Penting:**
+Informasi di atas bersifat umum sebagai penjelasan hukum berdasarkan dokumen rujukan yang diberikan. Ini bukan merupakan nasihat hukum resmi. Ketentuan terkait kewajiban, sanksi, dan pembayaran bisa berubah-ubah tergantung perkara spesifik dan keputusan hakim pada saat sidang. Untuk nasihat hukum spesifik, disarankan untuk berkonsultasi dengan pengacara atau lembaga hukum yang berwenang.",4.48,3132,705,0,""
+"2253","nvidia/nemotron-3.5-lightning:free","nvidia/nemotron-3.5-lightning:free","Malam hari saat mengendarai motor menuju perjalanan pulang ke daerah Jakarta Barat, saya hendak mendahului mobil di depan. Saya kaget bukan main karena dalam keadaan gelap, di depan ada rombongan asik bersepeda di tengah jalan. Untungnya saya bisa mengendalikan motor dan tidak terjadi kecelakaan. Apakah dibenarkan pesepeda yang demikian? Saya tahu memang sekarang lagi trend orang-orang naik sepeda, tapi ya masa dibiarkan melanggar hukum?","2253|4611|4495","Bersepeda di Lajur Kendaraan Bermotor Bisa Dipidana | Adakah Pidana Jika Menyerempet Pak Ogah di Putaran Jalan? | Penerobosan Lampu Merah oleh Konvoi ‘Moge’",True,1,"ok","stop","Berdasarkan dokumen rujukan yang dilampirkan, berikut adalah respons berdasarkan informasi hukum umum:
+
+**Jawaban Singkat**
+Bagi pesepeda yang menggunakan lajur khusus sepeda yang telah disediakan, pelakuan tersebut **dibenarkan** dan merupakan kewajiban pemerintah untuk menyediakannya. Namun, jika pesepeda dengan sengaja menggunakan lajur kendaraan bermotor, tindakan tersebut dapat dipidana sesuai aturan lalu lintas.
+
+**Dasar Hukum**
+1.  **Lajur Khusus Sepeda:** Menurut Dokumen Rujukan 1 (Hukumonline), setiap jalan yang digunakan untuk lalu lintas umum wajib dilengkapi dengan fasilitas untuk sepeda, seperti lajur sepeda. Pemerintah (provinsi, kota, dll) bertanggung jawab menyediakan fasilitas ini. Jika lajur khusus sudah ada, penggunaan lajur kendaraan bermotor oleh sepeda bisa dipidana kurungan maksimal 15 hari atau denda maksimal Rp100.000.
+2.  **Status Sepeda:** Sepeda dikategorikan sebagai kendaraan tidak bermotor. Setiap kendaraan tidak bermotor di jalan wajib memenuhi persyaratan keselamatan dan menggunakan lajur yang disediakan.
+
+**Langkah Praktis**
+Jika Anda menemui rombongan sepeda di tengah jalan saat gelap:
+*   **Hormati Lajur:** Percepat kecepatan dan pastikan tidak menghalangi lajur sepeda jika sudah tersedia di samping jalan.
+*   **Waspada pada Kegelapan:** Karena kejadian terjadi di malam hari, pastikan penerangan motor Anda menyala dengan baik untuk mendeteksi rintangan atau rombongan sepeda lebih awal.
+*   **Jaga Jarak:** Tahanlah mengejar atau mendahului sepeda jika lajur sepeda tidak jelas atau rombongan tersebut menyebar lebar di lajur kendaraan.
+
+**Catatan Penting**
+Ini adalah informasi hukum umum berdasarkan dokumen yang tersedia. Aturan lalu lintas dan penyediaan lajur sepeda dapat berubah seiring waktu atau kebijakan daerah. Untuk kasus spesifik mengenai kecelakaan atau pelanggaran, disarankan untuk berkonsultasi dengan pihak pengatur lalu lintas atau pihak berwajib hukum.
+
+***Disclaimer:** Saya adalah asisten penyedia informasi hukum umum, bukan pengacara. Informasi ini tidak menggantikan nasihat hukum profesional.*",3.91,2983,560,0,""
+"2006","nvidia/nemotron-3.5-lightning:free","nvidia/nemotron-3.5-lightning:free","Teman saya dipecat oleh perusahaannya. Dalam surat PHK, alasannya karena merugikan perusahaan (korupsi) yang dikasuskan enam tahun yang lalu. Hal ini sekalipun tidak terbukti atau tidak ada putusan pengadilan yang menyatakan bahwa dia korupsi. Apakah perusahaan ini bisa dituntut secara pidana berdasarkan Pasal 311 KUHP, dengan pertanggungjawaban pada perusahaannya? Bisakah dituntut kerugian imateriel atas fitnah tersebut?","2006|2710|1212","Dapatkah di-PHK karena Dituduh Menggelapkan Uang Perusahaan? | Dasar Hukum Pemecatan PNS yang Terjerat Kasus Korupsi | Bunyi Pasal Pencemaran Nama Baik KUHP Pasca Putusan MK No. 78/PUU-XXI/2023",True,1,"ok","stop","Berdasarkan dokumen rujukan yang dilampirkan, berikut adalah respons atas pertanyaan pengguna:
+
+**1. Apakah perusahaan bisa dituntut secara pidana berdasarkan Pasal 311 KUHP?**
+Berdasarkan Dokumen Rujukan 1 (Hukumonline tentang PHK karena diduduh menggelapkan uang), perusahaan **tidak dapat** menghukum karyawan melalui PHK sekadar berdasarkan tuduhan korupsi tanpa putusan pengadilan berkekuatan hukum. Penghapusan Pasal 158 UU Ketenagakerjaan (oleh UU Cipta Kerja) membuat pemutusan kerja hanya berdasarkan tuduhan tanpa putusan pengadilan ilegal. Oleh karena itu, perusahaan tidak bisa langsung mengaitkan tuduhan tersebut sebagai dasar PHK yang sah secara hukum.
+
+**2. Bisakah dituntut kerugian imateriel atas fitnah tersebut?**
+Berdasarkan Dokumen Rujukan 1, tuntutan ganti kerugian imateriel terhadap dugaan fitnah yang berujung pada PHK **akan sangat sulit dikabulkan**. Alasannya: kerugian imateriel sulit diukur dengan uang dan sangat tergantung pada kebijaksanaan hakim. Selain itu, sulit menentukan nilai ekonomis martabat/nama baik seseorang.
+
+**3. Apakah ada dasar pidana lain selain Pasal 311 KUHP?**
+Berdasarkan Dokumen Rujukan 3 (Hukumonline tentang Pencemaran Nama Baik), jika tuduhan tersebut menyebarkan kebencian atau mengganggu martabat orang lain secara lisan, itu bisa dikategorikan sebagai **Pencemaran Nama Baik**. Pasal 310 ayat (1) KUHP telah diubah oleh Putusan MK No. 78/PUU-XXI/2023, sehingga ancaman pidana dan tata cara hukumnya telah berubah. Namun, dokumen ini tidak menyebutkan Pasal 311 KUHP spesifik sebagai dasar pidana untuk tindak fitnah perusahaan terhadap karyawan dalam konteks PHK.
+
+**Catatan Penting:**
+*   Ini adalah informasi hukum umum, bukan nasihat hukum spesifik.
+*   Aturan perdata dan pidana bisa berubah sewaktu-waktu.
+*   Untuk kasus spesifik, disarankan untuk berkonsultasi dengan pengacara atau lembaga bantuan hukum.",3.44,3302,537,0,""
+"1828","nvidia/nemotron-3.5-lightning:free","nvidia/nemotron-3.5-lightning:free","PP Bangunan Gedung mengatur fungsi dan klasifikasi bangunan gedung dicantumkan dalam Persetujuan Bangunan Gedung (“PBG”), Sertifikat Laik Fungsi Bangunan Gedung (“SLF”), dan Surat Bukti Kepemilikan Bangunan Gedung (“SBKBG”). Dokumen apakah itu? Apa fungsi dokumen-dokumen tersebut? Lalu, masih adakah IMB?","1828|1832|6784","Catat! Ini 3 Dokumen Penting Terkait Bangunan Gedung | Syarat Agar Bangunan Gedung Dapat Digunakan | Pengertian PBG dan Sanksi Jika Bangunan Tak Memilikinya",True,1,"ok","stop","Berdasarkan dokumen rujukan yang dilampirkan, berikut adalah jawaban atas pertanyaan pengguna:
+
+**1. Fungsi dan Klasifikasi dalam Dokumen**
+Secara umum, PP Bangunan Gedung mengatur bahwa fungsi dan klasifikasi bangunan gedung dicantumkan dalam tiga dokumen utama:
+*   **PBG (Persetujuan Bangunan Gedung):** Digunakan untuk proses pembangunan, perubahan, pengubahan, pengurangan, atau perawatan sesuai standar teknis.
+*   **SLF (Sertifikat Laik Fungsi):** Mengatur pemanfaatan bangunan. Bangunan hanya boleh digunakan setelah mendapatkan SLF.
+*   **SBKBG (Surat Bukti Kepemilikan):** Menjadi bukti kepemilikan atau kepemilikan atas bangunan gedung tersebut.
+
+**2. Status IMB (Izin Mendirikan Bangunan)**
+Berdasarkan Dokumen Rujukan 3, istilah **IMB (Izin Mendirikan Bangunan) telah dihapus/ditidurkan** sejak diundangkannya Undang-Undang Cipta Kerja yang mengubah UU Bangunan Gedung. Istilah yang kini digunakan adalah **PBG (Persetujuan Bangunan Gedung)**. Oleh karena itu, dokumen IMB tidak lagi terbit atau digunakan sebagai persyaratan legal dalam sistem bangunan gedung saat ini; digantikan oleh PBG.
+
+**Catatan Penting:**
+Informasi ini bersifat umum sebagai informasi hukum dan bukan nasihat hukum spesifik. Aturan perizinan bangunan dapat berubah-ubah, dan untuk kasus tertentu sebaiknya dikonsultasikan dengan pihak yang berwenang.",2.2,2960,361,0,""
+"1143","nvidia/nemotron-3.5-lightning:free","nvidia/nemotron-3.5-lightning:free","Bagaimana kedudukan hukum dari peraturan yang dibuat oleh lembaga non kementerian seperti Peraturan BNN, BPOM dalam hierarki peraturan perundang-undangan? Apakah peraturan lembaga non kementerian ini bisa mengikat ke dalam (internal) dan ke luar (masyarakat umum)?","1143|5044|5148","Kedudukan Peraturan Lembaga Pemerintah Nonkementerian (LPNK) | Kedudukan Peraturan Menteri dalam Hierarki Peraturan Perundang-undangan | Kedudukan Keputusan Menteri Lawas dalam Hierarki Perundang-undangan",True,1,"ok","stop","Berdasarkan dokumen rujukan yang dilampirkan, berikut adalah jawaban mengenai kedudukan hukum peraturan lembaga non kementerian seperti BNN dan BPOM:
+
+**1. Kedudukan Hukum dan Hierarki**
+Peraturan yang dibuat oleh lembaga pemerintah nonkementerian (LPNK) seperti BNN dan BPOM termasuk dalam jenis *Peraturan Perundang-undangan*. Hal ini diatur dalam **Pasal 8 ayat (1) UU No. 12/2011**, yang secara eksplisit menyebutkan bahwa jenis peraturan tersebut mencakup peraturan yang ditetapkan oleh ""badan, lembaga atau komisi yang setingkat"" yang dibentuk dengan Undang-Undang atau oleh Pemerintah atas perintah Undang-Undang. Oleh karena itu, peraturan BNN dan BPOM memiliki status hukum sebagai peraturan perundang-undangan yang berada di bawah Undang-Undang dan Peraturan Pemerintah, namun di atas Peraturan Menteri dan Peraturan Gubernur/Bupati.
+
+**2. Kekuatan Mengikat (Binding Power)**
+Secara umum, peraturan LPNK dapat mengikat secara hukum, namun dengan keterkaitan tertentu:
+*   **Mengikat Ke Dalam (Internal):** Peraturan ini mengikat terhadap **lembaga atau unit organisasi yang berada di bawah naungan** lembaga tersebut. Contohnya, peraturan BPOM mengikat terhadap industri obat dan makanan, serta pelanggan yang terdaftar di bawah pengawasan BPOM. Demikian pula peraturan BNN mengikat terhadap unit organisasi narkoba atau lembaga yang under its supervision.
+*   **Mengikat Ke Luar (Masyarakat Umum):** Peraturan LPNK umumnya **tidak mengikat langsung** terhadap masyarakat umum secara luas sebagai peraturan umum, kecuali jika peraturan tersebut menerbitkan **Peraturan Pemerintah (Perppu) atau Peraturan Pemerintah** yang kemudian diundangkan. Jika peraturan hanya berstatus *Peraturan Badan* murni, kekuatan hukumnya terbatas pada wilayah kerja dan unit organisasi yang diawasi. Masyarakat umum wajib patuhi jika peraturan tersebut telah diundangkan sebagai Peraturan Pemerintah atau jika terdapat aturan khusus yang mengacu pada peraturan LPNK tersebut.
+
+**3. Dasar Hukum**
+Dasar hukum utama yang mengatur hal ini adalah **Pasal 8 ayat (1) UU No. 12 Tahun 2011 tentang Pembentukan Peraturan Perundang-undangan**, yang menjelaskan bahwa peraturan dari LPNK diakui keberadaannya dan mempunyai kekuatan hukum mengikat sepanjang diperintahkan oleh Peraturan Perundang-undangan yang lebih tinggi atau dibentuk berdasarkan kewenangan yang diberikan.
+
+---
+*Catatan: Informasi ini bersifat umum sebagai penjelasan hukum dan bukan merupakan nasihat hukum spesifik. Peraturan dan aturan perubahan dapat terjadi seiring waktu.*",4.2,3097,638,0,""
+"6033","nvidia/nemotron-3.5-lightning:free","nvidia/nemotron-3.5-lightning:free","Bung Pokrol, bisakah perusahaan PMA mendirikan perusahaan penyedia jasa tenaga kerja (outsourcing) di Indonesia? Tolong juga beritahu saya mengenai UU/peraturan yang mengatur hal tersebut. Terima kasih.","6033|5865|6556","Bisakah PT PMA Mendirikan Perusahaan Outsourcing? | Jenis Pekerjaan yang Bisa Di-Outsourcing | Prosedur Mendirikan Perusahaan Penyedia Jasa Tenaga Kerja",True,1,"ok","stop","Berdasarkan dokumen rujukan yang dilampirkan, berikut adalah jawaban atas pertanyaan Anda:
+
+**1. Bisa mendirikan perusahaan penyedia jasa tenaga kerja (outsourcing)?**
+Ya, perusahaan PMA dapat mendirikan perusahaan penyedia jasa tenaga kerja (outsourcing) di Indonesia. Dokumen rujukan menyatakan bahwa penyediaan jasa pekerja/buruh merupakan salah satu bidang usaha yang terbuka bagi penanaman modal asing.
+
+**2. Dasar hukum/peraturan yang mengatur hal tersebut:**
+*   **Bukti Kebukaan Bidang Usaha:** Menurut Pasal 5 ayat (2) UU No. 25 Tahun 2007 tentang Penanaman Modal (UUPM), penanaman modal asing wajib dalam bentuk Perseroan Terbatas (PT), dan penyediaan jasa pekerja/buruh (outsourcing) adalah bidang usaha yang terbuka bagi PMA.
+*   **Persyaratan Badan Hukum:** Sebagaimana diatur dalam Pasal 7 ayat (1) UU No. 40 Tahun 2007 tentang Perseroan Terbatas (UUPT), suatu PT PMA sebagai badan hukum Indonesia dapat mendirikan PT PMA lainnya.
+*   **Izin Operasional:** Untuk beroperasi sebagai perusahaan penyedia jasa pekerja/buruh, perusahaan tersebut wajib memiliki izin operasional dari instansi yang bertanggung-jawab di bidang ketenagakerjaan (seperti Dinas Ketenagakerjaan) sesuai dengan Keputusan Menteri Tenaga Kerja dan Transmigrasi No. Kep-101/Men/VI/2004 tentang Tata Cara Perizinan Perusahaan Penyedia Jasa Pekerja/Buruh.
+
+**3. Langkah praktis (dari dokumen):**
+*   Perusahaan PMA harus mendirikan entitas anak berupa PT PMA untuk menjalankan usaha penyediaan jasa tenaga kerja.
+*   Perusahaan penyedia jasa tenaga kerja wajib mendapatkan izin operasional dari Dinas Ketenagakerjaan di wilayah tempat usahanya berlangsung berdasarkan Kepmenakertrans No. Kep-101/MEN/VI/2004.
+
+**Catatan Penting:**
+Informasi ini bersifat umum sebagai penjelasan hukum dan bukan nasihat hukum spesifik. Peraturan terkait penanaman modal dan tenaga kerja dapat berubah sewaktu-waktu, dan untuk kebutuhan hukum spesifik, sebaiknya dikonsultasikan dengan pengacara atau instansi terkait.",3.41,2856,561,0,""
+"839","nvidia/nemotron-3.5-lightning:free","nvidia/nemotron-3.5-lightning:free","Apabila perusahaan asuransi umum memberikan data pribadi konsumen kepada pihak ketiga tanpa adanya persetujuan tertulis dari konsumen, dan pemberian data tersebut tidak diwajibkan oleh peraturan perundang-undangan, berapa besaran nominal denda yang bisa dikenakan kepada perusahaan asuransi tersebut?","839|827|360","Hukumnya Perusahaan Asuransi Transfer Data Pribadi Tanpa Izin | Kewajiban Jasa Ekspedisi dalam Pelindungan Data Pribadi | Asuransi Pendidikan Dibagi Jadi Dana Investasi, Begini Hukumnya",True,1,"ok","stop","Berdasarkan dokumen rujukan yang dilampirkan, berikut adalah jawaban atas pertanyaan pengguna:
+
+Perusahaan asuransi yang memberikan data pribadi konsumen kepada pihak ketiga tanpa persetujuan tertulis dan tanpa diwajibkan oleh peraturan perundang-undangan melanggar ketentuan tentang pelindungan data pribadi. Berdasarkan UU PDP (UU Nomor 27 Tahun 2022 tentang Pelindungan Data Pribadi), tindakan tersebut dikategorikan sebagai pelanggaran terhadap prinsip pelindungan data pribadi.
+
+Dokumen rujukan menyebutkan bahwa dalam UU PDP, kewajiban pelindungan data pribadi harus dilakukan dengan prinsip persetujuan dari pemilik data. Pelanggaran ini dapat dikenakan sanksi administratif. Meskipun dokumen rujukan tidak menyebutkan besaran nominal denda yang spesifik, sesuai dengan ketentuan umum UU PDP, pelanggaran terhadap kewajiban pelindungan data pribadi dapat dikenakan sanksi berupa peringatan tertulis, pembayaran denda administratif, atau penghapusan data pribadi.
+
+Penting untuk diingat bahwa informasi ini bersifat umum dan untuk nasihat hukum spesifik, sebaiknya konsultasikan langsung dengan pengacara atau konsultan hukum. Aturan dan sanksi dapat berubah seiring dengan regulasi terbaru.
+
+**Catatan:** Ini adalah informasi hukum umum, bukan nasihat hukum profesional.",2.44,3367,323,0,""

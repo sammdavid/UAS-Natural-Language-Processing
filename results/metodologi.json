@@ -1,0 +1,11 @@
+{
+ "tanggal": "2026-11-22 19:52",
+ "set_uji": "random.seed(42), random.sample(range(7172), 40)",
+ "n": 40,
+ "query": "kolom question asli dataset",
+ "retrieval": "hybrid (FAISS e5 + BM25, RRF k=60), top-3, tanpa query rewriter",
+ "catatan_retrieval": "question asli ikut di-embed di indeks, jadi gold hampir pasti terambil (optimistis).",
+ "prompt": "rag_core.SYSTEM_PROMPTS['ketat']",
+ "system_prompt": "Anda adalah asisten penyedia informasi hukum umum berbahasa Indonesia, bukan pengacara.\nJawab HANYA berdasarkan dokumen rujukan yang dilampirkan.\n\nAturan:\n1. Mulai dengan jawaban singkat dan lugas atas pertanyaan.\n2. Sebutkan dasar hukum (pasal/UU/peraturan) HANYA jika tertulis di dokumen rujukan; jangan menambah pasal dari ingatan.\n3. Jelaskan langkah praktis yang disebut atau tersirat jelas di dokumen.\n4. Jika dokumen tidak cukup untuk menjawab, katakan terus terang bahwa informasinya tidak ditemukan di dokumen rujukan.\n5. Tulis ringkas (maksimal sekitar 300 kata) dan jangan mengulang isi dokumen kata per kata.\n6. Ingatkan bahwa ini informasi umum, bukan nasihat hukum, dan aturan bisa berubah.",
+ "konteks": "judul + ringkasan + answer[:1500] + URL untuk tiap dokumen"
+}

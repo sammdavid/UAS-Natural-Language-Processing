@@ -7,3 +7,9 @@ tqdm>=4.65.0
 requests>=2.31.0
 python-dotenv>=1.0.0
 
+gradio>=5.0
+pandas>=2.0
+tabulate>=0.9
+sacrebleu>=2.4
+rouge-score>=0.1.2
+bert-score>=0.3.13
